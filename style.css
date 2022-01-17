@@ -58,10 +58,10 @@ nav a {
 	color: #fff;
 }
 .content-area {
-	width: 2000px;
+	width: 100%;
 	position: relative;
 	top: 800px;
-	background: #ebebeb;
+	background: #fff;
 	height: 1500px;
 }
 .content-area h2 {
